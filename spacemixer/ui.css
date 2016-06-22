@@ -15,21 +15,12 @@ body {
 #logo {
     position: fixed;
     right: 20px;
-    color: orange;
-    font-family: cursive;
     font-size: 21px;
     font-weight: bold;
 }
 
-#logo span#logo2 {
-    color: #A4F30C;
-}
 
-#logo sup {
-    color: silver;
-    font-size: 11px;
-    font-weight: bold;
-}
+
 
 .mashup, .furniture {
 	display: none;
